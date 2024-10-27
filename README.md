@@ -1,2 +1,2 @@
 # UIUC-CS598-LAZ
-self-learning program
+https://slazebni.cs.illinois.edu/fall23/
